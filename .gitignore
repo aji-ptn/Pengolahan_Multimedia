@@ -1,0 +1,5 @@
+venv311/
+__pycache__/
+*.dat
+*.bz2
+.ipynb_checkpoints/
